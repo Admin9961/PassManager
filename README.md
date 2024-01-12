@@ -8,4 +8,4 @@ Ovviamente inizierete con l'installazione delle dipendenze, attraverso "pip inst
 2. *encryptor.py* serve per criptare ulteriormente "passwords.txt" con una seconda password, e questo è un componente molto importante del tool, perché questa seconda password dovrete ricordarla a memoria, e riscriverla nel momento in cui si vorrà decriptare i file.
 3. *zipper.py* serve per zippare i file criptati in un archivio e ripulire i file temporanei. I file zippati dovranno essere poi riestratti manualmente, e per risalire alla passowrd originale, prima vanno decriptati attraverso "encryptor.py" e infine con "main.py".
 
-Leggi bene le istruzioni sopra. Non mi riterrò responsabile qualora smarrirai una password in seguito ad un uso errato del PW manager.
+Leggi bene le istruzioni sopra. Non mi riterrò responsabile qualora smarrirai una password in seguito ad un uso errato del PW manager. G00d luck
